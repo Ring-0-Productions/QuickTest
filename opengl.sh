@@ -1,0 +1,1 @@
+gcc main.m -framework Cocoa -framework OpenGL -x objective-c
